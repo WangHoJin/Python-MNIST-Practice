@@ -4,7 +4,7 @@
 
 1. 스핑크스(Sphinx) 설치
 ==========================
-** 스핑크스(Sphinx) 설치:
+* :스핑크스(Sphinx):
 pip install sphinx
 
 Indices and tables
