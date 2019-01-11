@@ -4,9 +4,25 @@
 
 1. 스핑크스(Sphinx) 설치
 ==========================
-* 스핑크스(Sphinx)::
+* Anaconda Prompot 실행
+
+* 스핑크스(Sphinx) 설치::
 
     pip install sphinx
+
+* 프로젝트 문서화 환경 설정::
+
+    sphinx_auickstart
+
+::
+
+    Welcome to the Sphinx 1.6.6 quickstart utility.
+
+    Please enter values for the following settings (just press Enter to
+    accept a default value, if one is given in brackets).
+
+    Enter the root path for documentation.
+    > Root path for the documentation [.]:
 
 Indices and tables
 ==================
